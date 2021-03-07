@@ -26,8 +26,9 @@ All you need to do is upload the contents of the `server` folder to the root fol
 
 You will want to configure your site by editing the first row in the `config` table of your database you just installed as follows:
 
-| id              | 1                                                            |
+| Name            | Input                                                        |
 | --------------- | ------------------------------------------------------------ |
+| id              | 1                                                            |
 | business_name   | Your business name                                           |
 | business_slogan | Your business slogan                                         |
 | theme_color     | Website theme (Ex: dark)                                     |
